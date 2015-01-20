@@ -1,0 +1,21 @@
+{
+  "name": "BasicGulpTSBoilerplate",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-util": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-uglify": "*",
+    "vinyl-source-stream": "*",
+    "vinyl-buffer": "*",
+    "watchify": "*",
+    "tsify":"*",
+    "browserify": "*",
+    "gulp-sass": "*",
+    "browser-sync": "*"
+  }
+}
